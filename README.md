@@ -20,3 +20,7 @@ and i will provide the sample output of the project
 by using private, boolean found and boolean remove 
 and we used switch and edefault in this project.
 
+and you can add extra features into it they are:
+Saving to a file
+Sorting contacts
+Updating a contact
