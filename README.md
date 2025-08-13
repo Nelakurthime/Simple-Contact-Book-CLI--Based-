@@ -17,3 +17,6 @@ And then run by using java ContactBook
 by creating this you can create GUI app 
 and  having this having add, view, edit, delete and edit.
 and i will provide the sample output of the project 
+by using private, boolean found and boolean remove 
+and we used switch and edefault in this project.
+
