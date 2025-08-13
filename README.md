@@ -11,9 +11,9 @@ Exit
 we have to save the file by using ContactBook.java
 Here i will tell you clearly how to run:
 Firstly we have to save the file as ContactBook.java
-And then compile by using javac ContactBook.java
+And then compile by using java ContactBook.java
 And then run by using java ContactBook
 
-by creating this you can create GUI app b
+by creating this you can create GUI app 
 and  having this having add, view, edit, delete and edit.
 and i will provide the sample output of the project 
